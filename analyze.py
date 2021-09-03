@@ -17,4 +17,5 @@ print(df['1'].describe())
 #     --> setup a dvc remote, file on the local machine or google drive folder
 # (4) create a big data set locally
 # (5) dvc add data.csv
+# (6) 
 
